@@ -1,0 +1,4 @@
+pandas-ta
+python-binance
+MetaTrader5
+asyncio
