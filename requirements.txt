@@ -1,4 +1,4 @@
 pandas-ta
 python-binance
-MetaTrader5
+MetaTrader5; sys_platform == "win32"
 asyncio
